@@ -1,0 +1,2 @@
+# redistest
+example of redis
